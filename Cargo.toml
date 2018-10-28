@@ -21,7 +21,7 @@ exclude = [
 ]
 
 [dependencies]
-bindgen = "0.38"
+bindgen = "0.32.3"
 gcc = "0.3.54"
 libc = "0.2.43"
 aligned_alloc = "0.1.3"
